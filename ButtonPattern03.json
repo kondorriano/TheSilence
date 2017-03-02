@@ -1,0 +1,154 @@
+{
+    "patterns": [
+        {
+            "notes": [
+                {
+                    "noteDuration": 2.0,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 6.0,
+                    "silence": true
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 1.0,
+                    "silence": true
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 2.0,
+                    "silence": false
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 1.0,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 3.0,
+                    "silence": true
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 1.0,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 1.75,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 1.0,
+                    "silence": false
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 1.0,
+                    "silence": false
+                }
+            ]
+        }
+    ],
+    "chunks": [
+        {
+            "pIndex": 0,
+            "beat": 71.0,
+            "numPos": 1.0,
+            "denomPos": 4.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 1,
+            "beat": 95.0,
+            "numPos": 1.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 2,
+            "beat": 102.0,
+            "numPos": 3.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 2,
+            "beat": 111.0,
+            "numPos": 1.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 2,
+            "beat": 118.0,
+            "numPos": 1.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 3,
+            "beat": 128.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 4,
+            "beat": 140.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 3,
+            "beat": 144.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 4,
+            "beat": 156.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 3,
+            "beat": 160.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 5,
+            "beat": 165.0,
+            "numPos": 1.0,
+            "denomPos": 2.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 5,
+            "beat": 170.0,
+            "numPos": 1.0,
+            "denomPos": 2.0,
+            "chunkType": 1
+        }
+    ]
+}

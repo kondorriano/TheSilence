@@ -1,0 +1,36 @@
+{
+    "patterns": [
+        {
+            "notes": [
+                {
+                    "noteDuration": 1.0,
+                    "silence": false
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 1.0,
+                    "silence": true
+                }
+            ]
+        }
+    ],
+    "chunks": [
+        {
+            "pIndex": 0,
+            "beat": 0.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 1,
+            "beat": 188.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        }
+    ]
+}

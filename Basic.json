@@ -1,0 +1,22 @@
+{
+    "beatEvents": [
+        {
+            "beat": 0.0,
+            "noteDuration": 1.0,
+            "loopDuration": 1.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2,
+            "silence": false
+        },
+        {
+            "beat": 188.0,
+            "noteDuration": 1.0,
+            "loopDuration": 1.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 0,
+            "silence": true
+        }
+    ]
+}

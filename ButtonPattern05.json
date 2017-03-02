@@ -1,0 +1,98 @@
+{
+    "patterns": [
+        {
+            "notes": [
+                {
+                    "noteDuration": 2.0,
+                    "silence": false
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 1.0,
+                    "silence": true
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 1.0,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 7.0,
+                    "silence": true
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 1.0,
+                    "silence": false
+                }
+            ]
+        }
+    ],
+    "chunks": [
+        {
+            "pIndex": 0,
+            "beat": 78.0,
+            "numPos": 3.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 0,
+            "beat": 94.0,
+            "numPos": 3.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 0,
+            "beat": 110.0,
+            "numPos": 1.0,
+            "denomPos": 2.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 0,
+            "beat": 118.0,
+            "numPos": 2.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 2,
+            "beat": 134.0,
+            "numPos": 2.0,
+            "denomPos": 4.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 1,
+            "beat": 162.0,
+            "numPos": 2.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 3,
+            "beat": 166.0,
+            "numPos": 1.0,
+            "denomPos": 2.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 3,
+            "beat": 168.0,
+            "numPos": 1.0,
+            "denomPos": 2.0,
+            "chunkType": 1
+        }
+    ]
+}

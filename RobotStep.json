@@ -1,0 +1,166 @@
+{
+    "beatEvents": [
+        {
+            "beat": 0.0,
+            "noteDuration": 1.0,
+            "loopDuration": 2.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2,
+            "silence": false
+        },
+        {
+            "beat": 60.0,
+            "noteDuration": 1.0,
+            "loopDuration": 1.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 0,
+            "silence": true
+        },
+        {
+            "beat": 64.0,
+            "noteDuration": 1.0,
+            "loopDuration": 2.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2,
+            "silence": false
+        },
+        {
+            "beat": 95.0,
+            "noteDuration": 0.125,
+            "loopDuration": 1.0,
+            "numPos": 1.0,
+            "denomPos": 8.0,
+            "chunkType": 0,
+            "silence": false
+        },
+        {
+            "beat": 96.0,
+            "noteDuration": 1.0,
+            "loopDuration": 2.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2,
+            "silence": false
+        },
+        {
+            "beat": 103.0,
+            "noteDuration": 0.5,
+            "loopDuration": 1.0,
+            "numPos": 1.0,
+            "denomPos": 4.0,
+            "chunkType": 0,
+            "silence": false
+        },
+        {
+            "beat": 104.0,
+            "noteDuration": 1.0,
+            "loopDuration": 2.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2,
+            "silence": false
+        },
+        {
+            "beat": 120.0,
+            "noteDuration": 1.0,
+            "loopDuration": 1.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 0,
+            "silence": true
+        },
+        {
+            "beat": 128.0,
+            "noteDuration": 1.0,
+            "loopDuration": 2.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2,
+            "silence": false
+        },
+        {
+            "beat": 143.0,
+            "noteDuration": 0.125,
+            "loopDuration": 0.25,
+            "numPos": 3.0,
+            "denomPos": 8.0,
+            "chunkType": 0,
+            "silence": false
+        },
+        {
+            "beat": 143.0,
+            "noteDuration": 0.125,
+            "loopDuration": 0.25,
+            "numPos": 5.0,
+            "denomPos": 8.0,
+            "chunkType": 0,
+            "silence": false
+        },
+        {
+            "beat": 144.0,
+            "noteDuration": 1.0,
+            "loopDuration": 2.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2,
+            "silence": false
+        },
+        {
+            "beat": 159.0,
+            "noteDuration": 0.125,
+            "loopDuration": 0.25,
+            "numPos": 3.0,
+            "denomPos": 8.0,
+            "chunkType": 0,
+            "silence": false
+        },
+        {
+            "beat": 159.0,
+            "noteDuration": 0.125,
+            "loopDuration": 0.25,
+            "numPos": 5.0,
+            "denomPos": 8.0,
+            "chunkType": 0,
+            "silence": false
+        },
+        {
+            "beat": 160.0,
+            "noteDuration": 1.0,
+            "loopDuration": 2.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2,
+            "silence": false
+        },
+        {
+            "beat": 167.0,
+            "noteDuration": 0.5,
+            "loopDuration": 1.0,
+            "numPos": 1.0,
+            "denomPos": 2.0,
+            "chunkType": 2,
+            "silence": false
+        },
+        {
+            "beat": 170.0,
+            "noteDuration": 1.0,
+            "loopDuration": 2.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2,
+            "silence": false
+        },
+        {
+            "beat": 190.0,
+            "noteDuration": 1.0,
+            "loopDuration": 1.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 0,
+            "silence": true
+        }
+    ]
+}

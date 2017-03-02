@@ -1,0 +1,162 @@
+{
+    "patterns": [
+        {
+            "notes": [
+                {
+                    "noteDuration": 1.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": true
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 1.0,
+                    "silence": true
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 2.0,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 2.0,
+                    "silence": true
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 2.0,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 1.5,
+                    "silence": true
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 2.0,
+                    "silence": false
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 1.0,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 3.0,
+                    "silence": true
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 1.0,
+                    "silence": false
+                }
+            ]
+        }
+    ],
+    "chunks": [
+        {
+            "pIndex": 0,
+            "beat": 1.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 1,
+            "beat": 61.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 2,
+            "beat": 66.0,
+            "numPos": 1.0,
+            "denomPos": 2.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 3,
+            "beat": 94.0,
+            "numPos": 1.0,
+            "denomPos": 2.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 2,
+            "beat": 98.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 1,
+            "beat": 118.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 4,
+            "beat": 119.0,
+            "numPos": 1.0,
+            "denomPos": 2.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 5,
+            "beat": 130.0,
+            "numPos": 1.0,
+            "denomPos": 4.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 6,
+            "beat": 162.0,
+            "numPos": 1.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 6,
+            "beat": 164.0,
+            "numPos": 1.0,
+            "denomPos": 2.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 6,
+            "beat": 169.0,
+            "numPos": 3.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 0,
+            "beat": 173.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        }
+    ]
+}

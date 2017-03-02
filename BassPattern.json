@@ -1,0 +1,498 @@
+{
+    "patterns": [
+        {
+            "notes": [
+                {
+                    "noteDuration": 0.125,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.125,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": true
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 1.0,
+                    "silence": true
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": true
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": true
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": true
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": true
+                }
+            ]
+        }
+    ],
+    "chunks": [
+        {
+            "pIndex": 0,
+            "beat": 14.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 1,
+            "beat": 16.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 2,
+            "beat": 23.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 1,
+            "beat": 24.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 3,
+            "beat": 31.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 1,
+            "beat": 32.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 3,
+            "beat": 39.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 1,
+            "beat": 40.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 4,
+            "beat": 46.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 1,
+            "beat": 48.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 4,
+            "beat": 54.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 1,
+            "beat": 56.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 5,
+            "beat": 61.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 1,
+            "beat": 64.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 2,
+            "beat": 71.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 1,
+            "beat": 72.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 3,
+            "beat": 79.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 1,
+            "beat": 80.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 3,
+            "beat": 87.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 1,
+            "beat": 88.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 4,
+            "beat": 94.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 6,
+            "beat": 96.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 2,
+            "beat": 102.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 1,
+            "beat": 105.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 6,
+            "beat": 108.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 2,
+            "beat": 118.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 1,
+            "beat": 120.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 5,
+            "beat": 121.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 7,
+            "beat": 128.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 8,
+            "beat": 132.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 7,
+            "beat": 144.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 8,
+            "beat": 148.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 9,
+            "beat": 160.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 6,
+            "beat": 164.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 5,
+            "beat": 180.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 0,
+            "beat": 186.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        }
+    ]
+}

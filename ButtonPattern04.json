@@ -1,0 +1,121 @@
+{
+    "patterns": [
+        {
+            "notes": [
+                {
+                    "noteDuration": 2.0,
+                    "silence": false
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 1.0,
+                    "silence": true
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 1.0,
+                    "silence": false
+                }
+            ]
+        }
+    ],
+    "chunks": [
+        {
+            "pIndex": 0,
+            "beat": 76.0,
+            "numPos": 3.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 0,
+            "beat": 92.0,
+            "numPos": 1.0,
+            "denomPos": 2.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 0,
+            "beat": 109.0,
+            "numPos": 3.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 0,
+            "beat": 118.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 2,
+            "beat": 133.0,
+            "numPos": 3.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 2,
+            "beat": 141.0,
+            "numPos": 3.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 2,
+            "beat": 143.0,
+            "numPos": 1.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 2,
+            "beat": 149.0,
+            "numPos": 3.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 2,
+            "beat": 157.0,
+            "numPos": 3.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 2,
+            "beat": 159.0,
+            "numPos": 1.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 2,
+            "beat": 166.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 2,
+            "beat": 167.0,
+            "numPos": 1.0,
+            "denomPos": 2.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 2,
+            "beat": 171.0,
+            "numPos": 1.0,
+            "denomPos": 2.0,
+            "chunkType": 1
+        }
+    ]
+}
