@@ -21,6 +21,9 @@ ModelImporter:
     100026: Foot_L_001
     100028: LLeg_L_001
     100030: ULeg_L_001
+    100032: ChestCabin
+    100034: HeadCabin
+    100036: PelvisCabin
     400000: Chest
     400002: Foot
     400004: Head
@@ -37,6 +40,9 @@ ModelImporter:
     400026: Foot_L_001
     400028: LLeg_L_001
     400030: ULeg_L_001
+    400032: ChestCabin
+    400034: HeadCabin
+    400036: PelvisCabin
     2300000: Chest
     2300002: Foot
     2300004: Head
@@ -53,6 +59,9 @@ ModelImporter:
     2300026: Foot_L_001
     2300028: LLeg_L_001
     2300030: ULeg_L_001
+    2300032: ChestCabin
+    2300034: HeadCabin
+    2300036: PelvisCabin
     3300000: Chest
     3300002: Foot
     3300004: Head
@@ -69,6 +78,9 @@ ModelImporter:
     3300026: Foot_L_001
     3300028: LLeg_L_001
     3300030: ULeg_L_001
+    3300032: ChestCabin
+    3300034: HeadCabin
+    3300036: PelvisCabin
     4300000: Foot
     4300002: LLeg
     4300004: ULeg
@@ -84,6 +96,9 @@ ModelImporter:
     4300024: ULeg_L_001
     4300026: LLeg_L_001
     4300028: Foot_L_001
+    4300030: PelvisCabin
+    4300032: ChestCabin
+    4300034: HeadCabin
     7400000: Default Take
     9500000: //RootNode
   materials:
