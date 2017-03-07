@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class RobotLeversBeatEvent : BeatEvent {
 
-    public Transform[] levers;
+    public InteractableLever[] levers;
 
     public float leverMaxPos = .5f;
     public float leverMinPos = -.75f;
@@ -14,7 +14,7 @@ public class RobotLeversBeatEvent : BeatEvent {
 
     public float leverSpeed = .125f;
 
-    bool leverMoved = true;
+    bool leverInPosition = true;
 
     Vector3 startPosition = Vector3.zero;
     Vector3 endPosition = Vector3.zero;
@@ -32,37 +32,42 @@ public class RobotLeversBeatEvent : BeatEvent {
     float equMoveDuration;
 
     int index = 1;
-    int leverToMove = 0;
 
     bool moveLock = false;
 
     public BeatEvent[] otherEffects;
 
+    private void Start()
+    {
+        for(int i = 0; i < levers.Length; ++i)
+        {
+            levers[i].Init(this);
+        }
+    }
+
     public bool getLegMove()
     {
-        return leverMoved && !moveLock;
+        return leverInPosition && !moveLock;
     }
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space) && !leverMoved)
-        {
-            leverMoved = true;
-            Vector3 pos = levers[leverToMove].localPosition;
-            pos.z = leverMaxPos;
-            levers[leverToMove].localPosition = pos;
-            leverMoveDuration = 0;
-
-            if (!moveLock)
-            {
-                equalizers[index].material.mainTexture = equDoneTex;
-            }
-            equalizers[index].material.SetFloat("_Cutoff", equMaxPos);
-            equMoveDuration = 0;
-        }
-
         EqualizerStuff();
         LeverStuff();
+    }
+
+    public void SetLeverInPosition()
+    {
+        leverInPosition = true;
+        leverMoveDuration = 0;
+
+        if (!moveLock)
+        {
+            equalizers[index].material.mainTexture = equDoneTex;
+        }
+
+        equalizers[index].material.SetFloat("_Cutoff", equMaxPos);
+        equMoveDuration = 0;
     }
 
     void EqualizerStuff()
@@ -87,27 +92,27 @@ public class RobotLeversBeatEvent : BeatEvent {
         leverMoveTime += Time.deltaTime;
 
         float time = leverMoveTime / leverMoveDuration;
-        levers[index].localPosition = Vector3.Lerp(startPosition, endPosition, time);
+        levers[index].transform.localPosition = Vector3.Lerp(startPosition, endPosition, time);
 
         if (leverMoveTime >= leverMoveDuration)
         {
             leverMoveDuration = 0;
-            leverMoved = false;
-            leverToMove = index;
+            leverInPosition = false;
+            levers[index].leverNotInPos();
         }
     }
 
     public override void Beat(double noteDuration)
     {
-        if (leverMoved && !moveLock)
+        if (leverInPosition && !moveLock)
         {
             for (int i = 0; i < otherEffects.Length; ++i)
                 otherEffects[i].Beat(noteDuration);
 
-            if (leverMoveDuration != 0) levers[index].localPosition = endPosition;
+            if (leverMoveDuration != 0) levers[index].transform.localPosition = endPosition;
             index = (index + 1) % levers.Length;
 
-            startPosition = levers[index].localPosition;
+            startPosition = levers[index].transform.localPosition;
             startPosition.z = leverMaxPos;
             endPosition = startPosition;
             endPosition.z = leverMinPos;
@@ -116,7 +121,7 @@ public class RobotLeversBeatEvent : BeatEvent {
             leverMoveTime = 0;
         }
 
-        if (moveLock && leverMoved)
+        if (moveLock && leverInPosition)
         {
             equalizers[index].material.mainTexture = equDoneTex;
         }
@@ -129,5 +134,6 @@ public class RobotLeversBeatEvent : BeatEvent {
 
         moveLock = false;
 
+        if (levers[index].isGrabbed() && leverInPosition) SetLeverInPosition();
     }
 }
