@@ -244,252 +244,252 @@
     "chunks": [
         {
             "pIndex": 0,
-            "beat": 14.0,
+            "beat": 13.0,
             "numPos": 0.0,
             "denomPos": 1.0,
             "chunkType": 2
         },
         {
             "pIndex": 1,
-            "beat": 16.0,
+            "beat": 15.0,
             "numPos": 0.0,
             "denomPos": 1.0,
             "chunkType": 2
         },
         {
             "pIndex": 2,
+            "beat": 22.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 1,
             "beat": 23.0,
             "numPos": 0.0,
             "denomPos": 1.0,
-            "chunkType": 1
-        },
-        {
-            "pIndex": 1,
-            "beat": 24.0,
-            "numPos": 0.0,
-            "denomPos": 1.0,
             "chunkType": 2
         },
         {
             "pIndex": 3,
+            "beat": 30.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 1,
             "beat": 31.0,
             "numPos": 0.0,
             "denomPos": 1.0,
-            "chunkType": 1
-        },
-        {
-            "pIndex": 1,
-            "beat": 32.0,
-            "numPos": 0.0,
-            "denomPos": 1.0,
             "chunkType": 2
         },
         {
             "pIndex": 3,
-            "beat": 39.0,
+            "beat": 38.0,
             "numPos": 0.0,
             "denomPos": 1.0,
             "chunkType": 1
         },
         {
             "pIndex": 1,
-            "beat": 40.0,
+            "beat": 39.0,
             "numPos": 0.0,
             "denomPos": 1.0,
             "chunkType": 2
         },
         {
             "pIndex": 4,
-            "beat": 46.0,
+            "beat": 45.0,
             "numPos": 0.0,
             "denomPos": 1.0,
             "chunkType": 2
         },
         {
             "pIndex": 1,
-            "beat": 48.0,
+            "beat": 47.0,
             "numPos": 0.0,
             "denomPos": 1.0,
             "chunkType": 2
         },
         {
             "pIndex": 4,
-            "beat": 54.0,
+            "beat": 53.0,
             "numPos": 0.0,
             "denomPos": 1.0,
             "chunkType": 2
         },
         {
             "pIndex": 1,
-            "beat": 56.0,
+            "beat": 55.0,
             "numPos": 0.0,
             "denomPos": 1.0,
             "chunkType": 2
         },
         {
             "pIndex": 5,
-            "beat": 61.0,
+            "beat": 60.0,
             "numPos": 0.0,
             "denomPos": 1.0,
             "chunkType": 1
         },
         {
             "pIndex": 1,
-            "beat": 64.0,
+            "beat": 63.0,
             "numPos": 0.0,
             "denomPos": 1.0,
             "chunkType": 2
         },
         {
             "pIndex": 2,
+            "beat": 70.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 1,
             "beat": 71.0,
             "numPos": 0.0,
             "denomPos": 1.0,
-            "chunkType": 1
-        },
-        {
-            "pIndex": 1,
-            "beat": 72.0,
-            "numPos": 0.0,
-            "denomPos": 1.0,
             "chunkType": 2
         },
         {
             "pIndex": 3,
+            "beat": 78.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 1,
             "beat": 79.0,
             "numPos": 0.0,
             "denomPos": 1.0,
-            "chunkType": 1
-        },
-        {
-            "pIndex": 1,
-            "beat": 80.0,
-            "numPos": 0.0,
-            "denomPos": 1.0,
             "chunkType": 2
         },
         {
             "pIndex": 3,
-            "beat": 87.0,
+            "beat": 86.0,
             "numPos": 0.0,
             "denomPos": 1.0,
             "chunkType": 1
         },
         {
             "pIndex": 1,
-            "beat": 88.0,
+            "beat": 87.0,
             "numPos": 0.0,
             "denomPos": 1.0,
             "chunkType": 2
         },
         {
             "pIndex": 4,
-            "beat": 94.0,
+            "beat": 93.0,
             "numPos": 0.0,
             "denomPos": 1.0,
             "chunkType": 2
         },
         {
             "pIndex": 6,
-            "beat": 96.0,
+            "beat": 95.0,
             "numPos": 0.0,
             "denomPos": 1.0,
             "chunkType": 2
         },
         {
             "pIndex": 2,
-            "beat": 102.0,
+            "beat": 101.0,
             "numPos": 0.0,
             "denomPos": 1.0,
             "chunkType": 2
         },
         {
             "pIndex": 1,
-            "beat": 105.0,
+            "beat": 104.0,
             "numPos": 0.0,
             "denomPos": 1.0,
             "chunkType": 2
         },
         {
             "pIndex": 6,
-            "beat": 108.0,
+            "beat": 107.0,
             "numPos": 0.0,
             "denomPos": 1.0,
             "chunkType": 2
         },
         {
             "pIndex": 2,
-            "beat": 118.0,
+            "beat": 117.0,
             "numPos": 0.0,
             "denomPos": 1.0,
             "chunkType": 2
         },
         {
             "pIndex": 1,
+            "beat": 119.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 5,
             "beat": 120.0,
             "numPos": 0.0,
             "denomPos": 1.0,
             "chunkType": 2
         },
         {
-            "pIndex": 5,
-            "beat": 121.0,
-            "numPos": 0.0,
-            "denomPos": 1.0,
-            "chunkType": 2
-        },
-        {
             "pIndex": 7,
-            "beat": 128.0,
+            "beat": 127.0,
             "numPos": 0.0,
             "denomPos": 1.0,
             "chunkType": 1
         },
         {
             "pIndex": 8,
-            "beat": 132.0,
+            "beat": 131.0,
             "numPos": 0.0,
             "denomPos": 1.0,
             "chunkType": 2
         },
         {
             "pIndex": 7,
-            "beat": 144.0,
+            "beat": 143.0,
             "numPos": 0.0,
             "denomPos": 1.0,
             "chunkType": 1
         },
         {
             "pIndex": 8,
-            "beat": 148.0,
+            "beat": 147.0,
             "numPos": 0.0,
             "denomPos": 1.0,
             "chunkType": 2
         },
         {
             "pIndex": 9,
-            "beat": 160.0,
+            "beat": 159.0,
             "numPos": 0.0,
             "denomPos": 1.0,
             "chunkType": 1
         },
         {
-            "pIndex": 4,
-            "beat": 164.0,
+            "pIndex": 6,
+            "beat": 163.0,
             "numPos": 0.0,
             "denomPos": 1.0,
             "chunkType": 2
         },
         {
             "pIndex": 5,
-            "beat": 180.0,
+            "beat": 179.0,
             "numPos": 0.0,
             "denomPos": 1.0,
             "chunkType": 1
         },
         {
             "pIndex": 0,
-            "beat": 186.0,
+            "beat": 185.0,
             "numPos": 0.0,
             "denomPos": 1.0,
             "chunkType": 2
