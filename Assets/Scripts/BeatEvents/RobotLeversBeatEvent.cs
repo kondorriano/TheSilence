@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class RobotLeversBeatEvent : BeatEvent {
-
+    public bool workAlone = false;
     public InteractableLever[] levers;
 
     public float leverMaxPos = .5f;
@@ -134,6 +134,6 @@ public class RobotLeversBeatEvent : BeatEvent {
 
         moveLock = false;
 
-        if (levers[index].isGrabbed() && leverInPosition) SetLeverInPosition();
+        if (workAlone || levers[index].isGrabbed() && leverInPosition) SetLeverInPosition();
     }
 }
