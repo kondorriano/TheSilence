@@ -6,6 +6,7 @@ public class InteractableButton : InteractableItem {
 
     bool isEnabled = false;
     bool isPressed = true;
+    bool activated = false;
 
     float fusaTime;
     float counter;
@@ -22,10 +23,10 @@ public class InteractableButton : InteractableItem {
     {
         if (!isPressed) return;
 
-        if (
-            isEnabled)
+        if (isEnabled)
         {
             m.SetColor("_EmissionColor", m.color);
+            activated = true;
         }       
 
         counter -= Time.deltaTime;
@@ -41,7 +42,19 @@ public class InteractableButton : InteractableItem {
     public void setActivation(bool enabled)
     {
         isEnabled = enabled;
-        if(!isEnabled) m.SetColor("_EmissionColor", Color.black);
+        if (!isEnabled)
+        {
+            m.SetColor("_EmissionColor", Color.black);
+        }
+        else activated = false;
+
     }
+
+    public bool isActivated()
+    {
+        return activated;
+    }
+
+
 
 }

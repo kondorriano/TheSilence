@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class RobotBeatEvent : BeatEvent {
-    public RobotLeversBeatEvent rlbe;
+    public RobotLegsBeatEvent rlbe;
     public BeatEvent[] beatEvent;
 
     public override void Beat(double noteDuration)
