@@ -76,4 +76,23 @@ public class WandController : MonoBehaviour {
             } else objectsHoveringOver.Remove(collidedItem);
         }
     }
+
+    public void Rumble(float length)
+    {
+        StopCoroutine("LongVibration");
+        StartCoroutine(LongVibration(length, .4f));
+
+    }
+
+    //length is how long the vibration should go for
+    //strength is vibration strength from 0-1
+    IEnumerator LongVibration(float length, float strength)
+    {
+        for (float i = 0; i < length; i += Time.deltaTime)
+        {
+            
+            SteamVR_Controller.Input((int)trackedObj.index).TriggerHapticPulse((ushort)Mathf.Lerp(0, 3999, strength));
+            yield return null;
+        }
+    }
 }

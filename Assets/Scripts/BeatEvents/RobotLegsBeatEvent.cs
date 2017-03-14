@@ -19,7 +19,6 @@ public class RobotLegsBeatEvent : BeatEvent {
 
     public override void Beat(double noteDuration)
     {
-        Debug.Log(ibs[index].isActivated());
         if (ibs[index].isActivated())
         {
             index = (index + 1) % levers.Length;
@@ -30,6 +29,6 @@ public class RobotLegsBeatEvent : BeatEvent {
 
     public bool getLegMove()
     {
-        return ibs[index].isActivated();
+        return workAlone || ibs[index].isActivated();
     }
 }

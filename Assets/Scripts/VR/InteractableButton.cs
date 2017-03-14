@@ -6,7 +6,7 @@ public class InteractableButton : InteractableItem {
 
     bool isEnabled = false;
     bool isPressed = true;
-    bool activated = false;
+    bool activated = true;
 
     float fusaTime;
     float counter;
@@ -26,6 +26,7 @@ public class InteractableButton : InteractableItem {
         if (isEnabled)
         {
             m.SetColor("_EmissionColor", m.color);
+            if (!activated && attachedWand != null) attachedWand.Rumble(1.5f * fusaTime);
             activated = true;
         }       
 
@@ -37,6 +38,7 @@ public class InteractableButton : InteractableItem {
     {
         isPressed = true;
         counter = fusaTime;
+        attachedWand = wand;
     }
 
     public void setActivation(bool enabled)
