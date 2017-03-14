@@ -24,6 +24,29 @@ public class InteractableLever : InteractableItem {
         leverInPosition = false;
     }
 
+    public override void Touched(WandController wand)
+    {
+        GetComponent<Renderer>().material.color = Color.red;
+    }
+
+    public override void Attach(WandController wand)
+    {
+        GetComponent<Renderer>().material.color = Color.yellow;
+        attachedWand = wand;
+    }
+
+    public override void Deattach(WandController wand)
+    {
+        GetComponent<Renderer>().material.color = Color.white;
+
+        if (attachedWand == wand) attachedWand = null;
+    }
+
+    public override void Untouched(WandController wand)
+    {
+        GetComponent<Renderer>().material.color = Color.white;
+    }
+
     private void Update()
     {
         if (attachedWand == null) return;

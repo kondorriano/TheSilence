@@ -9,14 +9,21 @@ public class InteractableItem : MonoBehaviour {
 
     public virtual void Attach(WandController wand)
     {
-        GetComponent<Renderer>().material.color = Color.yellow;
-        attachedWand = wand;
+
     }
 
     public virtual void Deattach(WandController wand)
     {
-        GetComponent<Renderer>().material.color = Color.white;
 
-        if (attachedWand == wand) attachedWand = null;
+    }
+
+    public virtual void Touched(WandController wand)
+    {
+
+    }
+
+    public virtual void Untouched(WandController wand)
+    {
+
     }
 }

@@ -20,6 +20,8 @@ public class SingleButtonBeatEvent : BeatEvent
     float waitDuration = 0;
     float animTime = 0;
 
+    InteractableButton ib;
+
     void Start()
     {
         rend = GetComponent<Renderer>();
@@ -32,6 +34,8 @@ public class SingleButtonBeatEvent : BeatEvent
         Vector3 scale = transform.localScale;
         scale.z = minZScale;
         transform.localScale = scale;
+
+        ib = GetComponent<InteractableButton>();
     }
 
     void Update()
@@ -46,6 +50,7 @@ public class SingleButtonBeatEvent : BeatEvent
         {
             waitDuration = 0;
             shrinkDuration = 0;
+            ib.setActivation(false);
         }
         
     }
@@ -101,5 +106,7 @@ public class SingleButtonBeatEvent : BeatEvent
         shrinkDuration = (((float)noteDuration * 60f) / (float)BeatController.beatsPerMinute) * growS;
         waitDuration = (((float)noteDuration * 60f) / (float)BeatController.beatsPerMinute);
         animTime = 0;
+
+        ib.setActivation(true);
     }
 }

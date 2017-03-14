@@ -55,6 +55,7 @@ public class WandController : MonoBehaviour {
         InteractableItem collidedItem = collider.GetComponent<InteractableItem>();
         if (collidedItem)
         {
+            collidedItem.Touched(this);
             if (controller.GetPress(triggerButton))
             {
                 objectsTriggering.Remove(collidedItem);
@@ -68,6 +69,7 @@ public class WandController : MonoBehaviour {
         InteractableItem collidedItem = collider.GetComponent<InteractableItem>();
         if (collidedItem)
         {
+            collidedItem.Untouched(this);
             if (controller.GetPress(triggerButton))
             {
                 objectsTriggering.Add(collidedItem);
