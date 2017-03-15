@@ -30,6 +30,7 @@ public class InteractableHand : InteractableItem {
             Vector3 pos = transform.localPosition;
             pos = transform.parent.InverseTransformPoint(attachedWand.transform.position);
             transform.localPosition = pos;
+            transform.rotation = attachedWand.transform.rotation;
         }    
     }
 
