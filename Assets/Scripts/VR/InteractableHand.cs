@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class InteractableHand : InteractableItem {
 
+    public Vector3 offsetRotation;
     Vector3 origLocalPos;
     Color origCol;
     void Start()
@@ -29,6 +30,7 @@ public class InteractableHand : InteractableItem {
         if (attachedWand == null)
         {
             transform.localPosition = Vector3.Lerp(transform.localPosition, origLocalPos, .2f);
+            transform.rotation = Quaternion.Lerp(transform.rotation, transform.parent.rotation, .2f);
         }
         else
         {
@@ -37,6 +39,7 @@ public class InteractableHand : InteractableItem {
             pos = transform.parent.InverseTransformPoint(attachedWand.transform.position);
             transform.localPosition = pos;
             transform.rotation = attachedWand.transform.rotation;
+            transform.Rotate(offsetRotation);
         }    
     }
 
