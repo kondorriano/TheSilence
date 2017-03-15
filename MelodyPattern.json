@@ -39,15 +39,19 @@
                     "silence": false
                 },
                 {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": true
+                },
+                {
                     "noteDuration": 0.25,
                     "silence": false
                 },
                 {
                     "noteDuration": 0.5,
-                    "silence": true
-                },
-                {
-                    "noteDuration": 0.25,
                     "silence": false
                 },
                 {
@@ -55,11 +59,7 @@
                     "silence": false
                 },
                 {
-                    "noteDuration": 0.25,
-                    "silence": true
-                },
-                {
-                    "noteDuration": 0.25,
+                    "noteDuration": 0.5,
                     "silence": false
                 },
                 {
@@ -67,15 +67,7 @@
                     "silence": false
                 },
                 {
-                    "noteDuration": 0.25,
-                    "silence": true
-                },
-                {
-                    "noteDuration": 0.25,
-                    "silence": false
-                },
-                {
-                    "noteDuration": 0.25,
+                    "noteDuration": 0.5,
                     "silence": false
                 }
 
@@ -88,19 +80,15 @@
                     "silence": false
                 },
                 {
-                    "noteDuration": 0.25,
+                    "noteDuration": 0.5,
                     "silence": false
-                },
-                {
-                    "noteDuration": 0.25,
-                    "silence": true
                 },
                 {
                     "noteDuration": 0.25,
                     "silence": false
                 },
                 {
-                    "noteDuration": 0.25,
+                    "noteDuration": 0.5,
                     "silence": false
                 }
             ]
@@ -112,23 +100,7 @@
                     "silence": false
                 },
                 {
-                    "noteDuration": 0.25,
-                    "silence": false
-                },
-                {
                     "noteDuration": 0.5,
-                    "silence": true
-                },
-                {
-                    "noteDuration": 0.25,
-                    "silence": false
-                },
-                {
-                    "noteDuration": 0.25,
-                    "silence": false
-                },
-                {
-                    "noteDuration": 0.25,
                     "silence": false
                 },
                 {
@@ -141,6 +113,14 @@
                 },
                 {
                     "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
                     "silence": true
                 },
                 {
@@ -149,6 +129,14 @@
                 },
                 {
                     "noteDuration": 0.25,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.75,
                     "silence": false
                 }
 
@@ -185,7 +173,7 @@
                     "silence": false
                 },
                 {
-                    "noteDuration": 0.25,
+                    "noteDuration": 1.0,
                     "silence": false
                 }
             ]
@@ -209,7 +197,7 @@
                     "silence": false
                 },
                 {
-                    "noteDuration": 0.25,
+                    "noteDuration": 0.75,
                     "silence": false
                 }
             ]
@@ -233,12 +221,8 @@
                     "silence": false
                 },
                 {
-                    "noteDuration": 0.25,
+                    "noteDuration": 0.5,
                     "silence": false
-                },
-                {
-                    "noteDuration": 0.25,
-                    "silence": true
                 },
                 {
                     "noteDuration": 0.75,
@@ -261,6 +245,94 @@
                     "silence": false
                 },
                 {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 1.0,
+                    "silence": false
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 4.5,
+                    "silence": false
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": true
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 0.75,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.75,
+                    "silence": false
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
                     "noteDuration": 0.25,
                     "silence": false
                 },
@@ -269,12 +341,68 @@
                     "silence": true
                 },
                 {
-                    "noteDuration": 1.0,
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.75,
+                    "silence": false
+                }
+
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.75,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.75,
+                    "silence": false
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 7,
+                    "silence": false
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 5,
                     "silence": false
                 }
             ]
         }
-
     ],
     "chunks": [
         {
@@ -292,18 +420,11 @@
             "chunkType": 2
         },
         {
-            "pIndex": 2,
+            "pIndex": 14,
             "beat": 18.0,
             "numPos": 0.0,
             "denomPos": 1.0,
-            "chunkType": 2
-        },
-        {
-            "pIndex": 3,
-            "beat": 20.0,
-            "numPos": 0.0,
-            "denomPos": 1.0,
-            "chunkType": 2
+            "chunkType": 1
         },
         {
             "pIndex": 4,
@@ -327,22 +448,22 @@
             "chunkType": 2
         },
         {
+            "pIndex": 3,
+            "beat": 33.0,
+            "numPos": 1.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
             "pIndex": 1,
             "beat": 33.0,
-            "numPos": 0.0,
-            "denomPos": 1.0,
-            "chunkType": 2
+            "numPos": 1.0,
+            "denomPos": 2.0,
+            "chunkType": 1
         },
         {
-            "pIndex": 2,
+            "pIndex": 15,
             "beat": 34.0,
-            "numPos": 0.0,
-            "denomPos": 1.0,
-            "chunkType": 2
-        },
-        {
-            "pIndex": 3,
-            "beat": 36.0,
             "numPos": 0.0,
             "denomPos": 1.0,
             "chunkType": 1
@@ -373,7 +494,14 @@
             "beat": 50.0,
             "numPos": 0.0,
             "denomPos": 1.0,
-            "chunkType": 2
+            "chunkType": 1
+        },
+        {
+            "pIndex": 1,
+            "beat": 50.0,
+            "numPos": 3.0,
+            "denomPos": 4.0,
+            "chunkType": 1
         },
         {
             "pIndex": 7,
@@ -383,10 +511,10 @@
             "chunkType": 2
         },
         {
-            "pIndex": 3,
+            "pIndex": 13,
             "beat": 51.0,
-            "numPos": 5.0,
-            "denomPos": 8.0,
+            "numPos": 2.0,
+            "denomPos": 4.0,
             "chunkType": 1
         },
         {
@@ -418,10 +546,10 @@
             "chunkType": 2
         },
         {
-            "pIndex": 3,
+            "pIndex": 13,
             "beat": 59.0,
-            "numPos": 5.0,
-            "denomPos": 8.0,
+            "numPos": 2.0,
+            "denomPos": 4.0,
             "chunkType": 1
         },
         {
@@ -436,7 +564,21 @@
             "beat": 65.0,
             "numPos": 0.0,
             "denomPos": 1.0,
-            "chunkType": 2
+            "chunkType": 1
+        },
+        {
+            "pIndex": 0,
+            "beat": 65.0,
+            "numPos": 1.0,
+            "denomPos": 2.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 3 ,
+            "beat": 65.0,
+            "numPos": 3.0,
+            "denomPos": 4.0,
+            "chunkType": 1
         },
         {
             "pIndex": 2,
@@ -450,10 +592,10 @@
             "beat": 68.0,
             "numPos": 0.0,
             "denomPos": 1.0,
-            "chunkType": 2
+            "chunkType": 1
         },
         {
-            "pIndex": 6,
+            "pIndex": 16,
             "beat": 69.0,
             "numPos": 3.0,
             "denomPos": 4.0,
@@ -474,11 +616,18 @@
             "chunkType": 2
         },
         {
-            "pIndex": 1,
+            "pIndex": 0,
             "beat": 81.0,
             "numPos": 0.0,
             "denomPos": 1.0,
-            "chunkType": 2
+            "chunkType": 1
+        },
+        {
+            "pIndex": 0,
+            "beat": 81.0,
+            "numPos": 1.0,
+            "denomPos": 2.0,
+            "chunkType": 1
         },
         {
             "pIndex": 2,
@@ -492,7 +641,7 @@
             "beat": 84.0,
             "numPos": 0.0,
             "denomPos": 1.0,
-            "chunkType": 2
+            "chunkType": 1
         },
         {
             "pIndex": 6,
@@ -520,13 +669,13 @@
             "beat": 99.0,
             "numPos": 1.0,
             "denomPos": 2.0,
-            "chunkType": 2
+            "chunkType": 1
         },
         {
-            "pIndex": 3,
-            "beat": 101.0,
-            "numPos": 0.0,
-            "denomPos": 1.0,
+            "pIndex": 2,
+            "beat": 100.0,
+            "numPos": 1.0,
+            "denomPos": 2.0,
             "chunkType": 1
         },
         {
@@ -534,17 +683,17 @@
             "beat": 103.0,
             "numPos": 1.0,
             "denomPos": 4.0,
-            "chunkType": 2
-        },
-        {
-            "pIndex": 3,
-            "beat": 103.0,
-            "numPos": 3.0,
-            "denomPos": 4.0,
             "chunkType": 1
         },
         {
-            "pIndex": 9,
+            "pIndex": 1,
+            "beat": 103.0,
+            "numPos": 1.0,
+            "denomPos": 2.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 17,
             "beat": 104.0,
             "numPos": 0.0,
             "denomPos": 1.0,
@@ -579,14 +728,14 @@
             "chunkType": 1
         },
         {
-            "pIndex": 0,
+            "pIndex": 1,
             "beat": 111.0,
             "numPos": 1.0,
             "denomPos": 4.0,
             "chunkType": 1
         },
         {
-            "pIndex": 9,
+            "pIndex": 17,
             "beat": 112.0,
             "numPos": 0.0,
             "denomPos": 1.0,
@@ -628,7 +777,7 @@
             "chunkType": 1
         },
         {
-            "pIndex": 10,
+            "pIndex": 18,
             "beat": 120.0,
             "numPos": 0.0,
             "denomPos": 1.0,
@@ -712,7 +861,7 @@
             "chunkType": 2
         },
         {
-            "pIndex": 10,
+            "pIndex": 19,
             "beat": 172.0,
             "numPos": 0.0,
             "denomPos": 1.0,

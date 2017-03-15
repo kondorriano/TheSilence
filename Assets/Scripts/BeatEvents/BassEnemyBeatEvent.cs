@@ -11,7 +11,7 @@ public class BassEnemyBeatEvent : BeatEvent {
     public override void Beat(double noteDuration)
     {
         GameObject instantiatedEnemy = Instantiate(enemy, transform.position, Quaternion.identity, enemiesParent);
-        float destroyOn = (2f*60f) / (float)BeatController.beatsPerMinute;
-        //Destroy(instantiatedEnemy, destroyOn);
+        float destroyOn = (8f*60f) / (float)BeatController.beatsPerMinute;
+        Destroy(instantiatedEnemy, destroyOn);
     }
 }

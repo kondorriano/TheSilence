@@ -15,5 +15,7 @@ public class ArmsCabinController : MonoBehaviour {
 	void Update () {
         rightHand.localPosition = rightController.localPosition * scaling;
         leftHand.localPosition = leftController.localPosition * scaling;
+        rightHand.rotation = rightController.rotation;
+        leftHand.rotation = leftController.rotation;
     }
 }
