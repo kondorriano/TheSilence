@@ -11,6 +11,12 @@ public class InteractableHand : InteractableItem {
         origLocalPos = transform.localPosition;
     }
 
+    public override void Attach(WandController wand)
+    {
+        GetComponent<Renderer>().material.color = Color.yellow;
+        attachedWand = wand;
+    }
+
     public override void Deattach(WandController wand)
     {
         GetComponent<Renderer>().material.color = origCol;
