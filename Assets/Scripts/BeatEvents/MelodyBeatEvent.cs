@@ -5,12 +5,14 @@ using UnityEngine;
 public class MelodyBeatEvent : BeatEvent {
 
     public Transform[] eyes;
-    public Transform melodyEnemy;
+    Transform melodyEnemy;
 
     LineRenderer[] lines;
 
     float beamDuration = 0;
     float beamCounter = 0;
+
+    MelodyEnemyBeatEvent mebe;
 
     private void Start()
     {
@@ -20,6 +22,8 @@ public class MelodyBeatEvent : BeatEvent {
             lines[i] = eyes[i].GetComponent<LineRenderer>();
             lines[i].enabled = false;
         }
+
+        mebe = GetComponent<MelodyEnemyBeatEvent>();
     }
 
     private void Update()
@@ -33,6 +37,10 @@ public class MelodyBeatEvent : BeatEvent {
             {
                 lines[i].enabled = false;
             }
+
+            mebe.destroyEnemy();
+            melodyEnemy = null;
+
         }
     }
 
@@ -51,6 +59,9 @@ public class MelodyBeatEvent : BeatEvent {
 
     public override void Beat(double noteDuration)
     {
+        if (melodyEnemy != null) mebe.destroyEnemy();
+        melodyEnemy = mebe.GetMelodyEnemy();
+
         beamDuration = ((float)noteDuration * 60f) / (float)BeatController.beatsPerMinute;
         beamCounter = 0;
         for (int i = 0; i < eyes.Length; ++i)

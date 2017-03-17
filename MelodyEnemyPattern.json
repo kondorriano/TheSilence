@@ -1,0 +1,871 @@
+{
+    "patterns": [
+        {
+            "notes": [
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 0.75,
+                    "silence": false
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 0.25,
+                    "silence": true
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                }
+
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.75,
+                    "silence": false
+                }
+
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 0.125,
+                    "silence": false
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 1.0,
+                    "silence": false
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 1.0,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 1.0,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.75,
+                    "silence": false
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 1.0,
+                    "silence": false
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.75,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 1.0,
+                    "silence": false
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 4.5,
+                    "silence": false
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": true
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 0.75,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.75,
+                    "silence": false
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.75,
+                    "silence": false
+                }
+
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.75,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": true
+                },
+                {
+                    "noteDuration": 0.5,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.25,
+                    "silence": false
+                },
+                {
+                    "noteDuration": 0.75,
+                    "silence": false
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 7,
+                    "silence": false
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "noteDuration": 5,
+                    "silence": false
+                }
+            ]
+        }
+    ],
+    "chunks": [
+        {
+            "pIndex": 0,
+            "beat": 12.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 1,
+            "beat": 13.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 14,
+            "beat": 14.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 4,
+            "beat": 17.0,
+            "numPos": 3.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 5,
+            "beat": 23.0,
+            "numPos": 2.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 0,
+            "beat": 28.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 3,
+            "beat": 29.0,
+            "numPos": 1.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 1,
+            "beat": 29.0,
+            "numPos": 1.0,
+            "denomPos": 2.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 15,
+            "beat": 30.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 6,
+            "beat": 33.0,
+            "numPos": 3.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 0,
+            "beat": 44.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 1,
+            "beat": 45.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 2,
+            "beat": 46.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 1,
+            "beat": 46.0,
+            "numPos": 3.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 7,
+            "beat": 47.0,
+            "numPos": 1.0,
+            "denomPos": 4.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 13,
+            "beat": 47.0,
+            "numPos": 2.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 0,
+            "beat": 52.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 1,
+            "beat": 53.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 2,
+            "beat": 54.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 7,
+            "beat": 55.0,
+            "numPos": 1.0,
+            "denomPos": 4.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 13,
+            "beat": 55.0,
+            "numPos": 2.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 0,
+            "beat": 60.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 1,
+            "beat": 61.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 0,
+            "beat": 61.0,
+            "numPos": 1.0,
+            "denomPos": 2.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 3 ,
+            "beat": 61.0,
+            "numPos": 3.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 2,
+            "beat": 62.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 3,
+            "beat": 64.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 16,
+            "beat": 65.0,
+            "numPos": 3.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 8,
+            "beat": 71.0,
+            "numPos": 1.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 0,
+            "beat": 76.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 0,
+            "beat": 77.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 0,
+            "beat": 77.0,
+            "numPos": 1.0,
+            "denomPos": 2.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 2,
+            "beat": 78.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 3,
+            "beat": 80.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 6,
+            "beat": 81.0,
+            "numPos": 3.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 0,
+            "beat": 90.0,
+            "numPos": 3.0,
+            "denomPos": 4.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 9,
+            "beat": 92.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 10,
+            "beat": 95.0,
+            "numPos": 1.0,
+            "denomPos": 2.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 2,
+            "beat": 96.0,
+            "numPos": 1.0,
+            "denomPos": 2.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 0,
+            "beat": 99.0,
+            "numPos": 1.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 1,
+            "beat": 99.0,
+            "numPos": 1.0,
+            "denomPos": 2.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 17,
+            "beat": 100.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 2,
+            "beat": 103.0,
+            "numPos": 1.0,
+            "denomPos": 2.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 0,
+            "beat": 104.0,
+            "numPos": 1.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 10,
+            "beat": 104.0,
+            "numPos": 1.0,
+            "denomPos": 2.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 0,
+            "beat": 107.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 1,
+            "beat": 107.0,
+            "numPos": 1.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 17,
+            "beat": 108.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 2,
+            "beat": 111.0,
+            "numPos": 1.0,
+            "denomPos": 2.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 0,
+            "beat": 112.0,
+            "numPos": 1.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 10,
+            "beat": 113.0,
+            "numPos": 1.0,
+            "denomPos": 2.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 0,
+            "beat": 114.0,
+            "numPos": 3.0,
+            "denomPos": 4.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 10,
+            "beat": 115.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 18,
+            "beat": 116.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 11,
+            "beat": 123.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 12,
+            "beat": 127.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 11,
+            "beat": 131.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 12,
+            "beat": 135.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        },
+        {
+            "pIndex": 11,
+            "beat": 139.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 12,
+            "beat": 143.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 11,
+            "beat": 147.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 12,
+            "beat": 151.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 11,
+            "beat": 155.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 11,
+            "beat": 159.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 0,
+            "beat": 160.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 2
+        },
+        {
+            "pIndex": 19,
+            "beat": 168.0,
+            "numPos": 0.0,
+            "denomPos": 1.0,
+            "chunkType": 1
+        }
+    ]
+}
